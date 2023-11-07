@@ -1,5 +1,10 @@
 import React from "react";
 
+
+//HACK: This is a hack to inject client side code from server action into the build
+// import  "../SA_CLNT_Component/Component";
+// import  "../SA_SRV_Component/Component";
+
 import styles from "./styles.module.css";
 
 import s9 from "style9";
